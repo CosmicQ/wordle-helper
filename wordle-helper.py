@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-chr_list = ["l", "i", "u", "t"]
-bad_list = ["c","r","e","m", "a", "b", "p", "s", "g"]
-pos_list = ["", "", "", "", ""]
+chr_list = ["o","m"]
+bad_list = ["c","r","e","a","p","i","n","t","b","u","s","h","y"]
+pos_list = ["", "", "", "", "m"]
 possible = []
 
 ##############################################
